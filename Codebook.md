@@ -7,4 +7,5 @@ In the file, the first column contains the identifier of the user of the device,
 * Extract the mean and standard deviation column names and data.
 * Process the data. There are two parts processing test and train data respectively.
 * Merge data set.
-P.S. Features are normalized and bounded within [-1,1]. Each feature vector is a row on the text file.
+
+# P.S. Features are normalized and bounded within [-1,1]. Each feature vector is a row on the text file.
